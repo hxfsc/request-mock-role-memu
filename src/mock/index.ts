@@ -1,0 +1,2 @@
+require("./users")
+export default {}
